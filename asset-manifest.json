@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Async-React-Redux-Counter/static/css/main.b1cf2090.css",
+    "main.js": "/Async-React-Redux-Counter/static/js/main.8d68f7a9.js",
+    "index.html": "/Async-React-Redux-Counter/index.html",
+    "main.b1cf2090.css.map": "/Async-React-Redux-Counter/static/css/main.b1cf2090.css.map",
+    "main.8d68f7a9.js.map": "/Async-React-Redux-Counter/static/js/main.8d68f7a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1cf2090.css",
+    "static/js/main.8d68f7a9.js"
+  ]
+}
